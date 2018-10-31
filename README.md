@@ -7,6 +7,9 @@
 
 ## Build It
 
-1. Clone the repo
-2. run `$ yarn install`
-3. run `$ npm run build`
+1. run `$ yarn install`
+2. run `$ npm run build`
+
+## Test It
+
+1. run `$ npm run test`
